@@ -1,5 +1,5 @@
-print("Niranjana S Nair")
-print("Admission No: A24MCA047")
+print("Name : Jeev therese v mathew ")
+print("Admission No: A24MCA034")
 print("swapped the word Experiment: 2")
 from collections import Counter
 text=input("enter the line of text")
