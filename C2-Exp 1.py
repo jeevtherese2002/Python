@@ -1,5 +1,5 @@
-print("Niranjana S Nair")
-print("Admission no : A24MCA047 ")
+print("Name : Jeev therese v mathew ")
+print("Admission No: A24MCA034")
 print("Factorial and Fibonacci number Experiment : 1")
 import math
 num = int(input("Enter a number : "))
