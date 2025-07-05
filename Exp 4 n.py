@@ -1,6 +1,6 @@
 color_list1=[]
-print("Name: Niranjana Sniar")
-print("Admision No: A24MCA047")
+print("Name : Jeev therese v mathew ")
+print("Admission No: A24MCA034")
 print(" color list Experiment No: 4")
 n=int(input("Enter the limit of colors"))
 print("Enter first color list")
